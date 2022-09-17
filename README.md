@@ -5,3 +5,7 @@
 - Implemented with mouseevents
 - Control Panel for changing the brush size and color
 - Reset/clear button
+
+## Screenshot
+
+![FAQ Cards](screenshot.png)
