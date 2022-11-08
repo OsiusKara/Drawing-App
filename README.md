@@ -8,4 +8,4 @@
 
 ## Screenshot
 
-![FAQ Cards](screenshot.png)
+![FAQ Cards](screenshot1.png)
